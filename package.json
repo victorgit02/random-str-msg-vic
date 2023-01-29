@@ -1,0 +1,22 @@
+{
+  "name": "random-str-msg-vic",
+  "version": "1.0.0",
+  "description": "Random string messages of victor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgit02/random-str-msg-vic.git"
+  },
+  "author": "victor areiza <victorareiza02@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorgit02/random-str-msg-vic/issues"
+  },
+  "homepage": "https://github.com/victorgit02/random-str-msg-vic#readme",
+  "bin": {
+    "random-str-msg-vic" :"./bin/global.js"
+  }
+}
