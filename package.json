@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/victorgit02/random-str-msg-vic#readme",
   "bin": {
-    "random-str-msg-vic" :"./bin/global.js"
+    "random-str-msg-vic": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
   }
 }
